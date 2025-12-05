@@ -1,4 +1,4 @@
-# 02 - LED Blink (Arudino Uno / Breadboard)
+# 01 - LED Blink (Arudino Uno / Breadboard)
 
 ## Overview
 This module covers the first step in embedded development: configuring a microcontroller pin digital output and toggling it to blink an LED.
@@ -15,7 +15,7 @@ The goal is to understand the basic GPIO workflow, toolchain setup, and debuggin
 ## Wiring Diagram
 
     LED anode -> Resistor -> Digital Pin 12
-    LED Cathode -> GRND
+    LED Cathode -> GND
 
 ## Concepts Practiced
     - Digital output pin config
